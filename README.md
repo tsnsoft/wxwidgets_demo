@@ -24,6 +24,8 @@
 ![Screenshot](screenshot20.png)
 ![Screenshot](screenshot21.png)
 
+---
+
 ```
 #include "wxwidgets_testMain.h"
 #include <wx/msgdlg.h>
