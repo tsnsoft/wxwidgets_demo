@@ -8,6 +8,22 @@
 
 ![Screenshot](screenshot3.png)
 
+---
+
+![Screenshot](screenshot10.png)
+![Screenshot](screenshot11.png)
+![Screenshot](screenshot12.png)
+![Screenshot](screenshot13.png)
+![Screenshot](screenshot14.png)
+![Screenshot](screenshot15_1.png)
+![Screenshot](screenshot15_2.png)
+![Screenshot](screenshot16.png)
+![Screenshot](screenshot17.png)
+![Screenshot](screenshot18.png)
+![Screenshot](screenshot19.png)
+![Screenshot](screenshot20.png)
+![Screenshot](screenshot21.png)
+
 ```
 #include "wxwidgets_testMain.h"
 #include <wx/msgdlg.h>
